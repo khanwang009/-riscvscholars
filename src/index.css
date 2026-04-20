@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Helvetica+Neue:wght@400;500;700&family=Georgia:ital,wght@0,400;0,700;1,400&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #2F347B;
+  --color-accent: #F2B420;
+  --color-surface: #F8F7F3;
+  --color-surface-alt: #ECE9E1;
+  --color-border: #D8D2C4;
+  --color-black: #111111;
+
+  --font-sans: "Helvetica Neue", Arial, sans-serif;
+  --font-serif: "Georgia", serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+body {
+  background-color: var(--color-surface);
+  color: var(--color-black);
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, h4, h5, h6, .font-serif {
+  font-family: var(--font-serif);
+}
+
+::selection {
+  background-color: var(--color-primary);
+  color: white;
+}
