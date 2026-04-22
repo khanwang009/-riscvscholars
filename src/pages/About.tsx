@@ -1,47 +1,102 @@
+import { Link } from "react-router-dom";
+import Seo from "../components/Seo";
+
 export default function About() {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-16">
-      <h1 className="text-4xl font-serif font-bold text-primary mb-12 border-b border-border pb-6">
-        About & Editorial Policy
-      </h1>
+    <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+      <Seo
+        title="About, Source Policy & Correction Path | RISC-V Scholars"
+        description="Read the editorial policy, source policy, and correction path behind the RISC-V Scholars archive and collaboration gateway."
+        pathname="/about"
+      />
+      <div className="mb-12 border-b border-border pb-8">
+        <div className="text-[11px] uppercase tracking-[0.3em] font-bold text-gray-500 mb-3">
+          About & policy
+        </div>
+        <h1 className="text-4xl font-serif text-primary mb-4">
+          Editorial rules for a low-ops, source-based gateway.
+        </h1>
+        <p className="text-lg text-gray-600 max-w-3xl">
+          RISC-V Scholars is designed to be credible before it becomes large. The platform is
+          intentionally opinionated about source quality, correction paths, and how collaboration
+          requests should flow.
+        </p>
+      </div>
 
       <div className="space-y-12 text-gray-800 leading-relaxed">
-        
-        <section>
-          <h2 className="text-2xl font-serif font-bold text-gray-900 mb-4">Our Identity</h2>
+        <section id="explainer">
+          <h2 className="text-2xl font-serif mb-4">Platform identity</h2>
           <p className="mb-4">
-            <strong>RISC-V Scholars</strong> is a scholar-facing gateway designed specifically to facilitate transparent, structured, and mutually beneficial research collaborations between overseas RISC-V academic institutions and Chinese laboratories.
+            The platform is a scholar-facing collaboration gateway for overseas RISC-V institutions
+            and Chinese laboratories. It is neither a news portal nor an open academic social
+            graph.
           </p>
           <p>
-            We are not a news portal, nor a generic directory of contacts. We are a curation and matchmaking platform that values academic alignment, structural integration, and the preservation of academic integrity in cross-border engagements.
+            The intended output of the first phase is simple: a smaller number of better bilateral
+            first conversations.
           </p>
         </section>
 
-        <section>
-          <h2 className="text-2xl font-serif font-bold text-gray-900 mb-4">Editorial Principles</h2>
+        <section id="source-policy">
+          <h2 className="text-2xl font-serif mb-4">Source policy</h2>
           <ul className="list-disc pl-5 space-y-3">
             <li>
-              <strong>Public-First Archiving:</strong> Initial profiles on this platform are constructed purely from public sources, transparent institutional sites, published papers, and public repositories (e.g., GitHub). We provide source attribution for all unclaimed profiles.
+              Every profile begins from public sources such as institutional websites, public code
+              repositories, and discoverable academic material.
             </li>
             <li>
-              <strong>Institutional Autonomy:</strong> The platform explicitly supports a "Claim Profile" mechanism. Overseas labs have the absolute right to claim their representation, clarify their collaboration signals, modify their structural parameters, or opt-out entirely.
+              Source links and a last-updated field should be visible on profile pages so users can
+              judge freshness and provenance.
             </li>
             <li>
-              <strong>Curated Routing:</strong> We do not expose institutional direct emails to raw traffic. All incoming collaboration requests from Chinese entities are processed through our structured forms and assessed for viability before any introduction is made.
+              The site favors structured fields over broad editorial claims whenever a judgment can
+              be grounded in sourceable evidence.
             </li>
           </ul>
         </section>
 
-        <section>
-          <h2 className="text-2xl font-serif font-bold text-gray-900 mb-4">Correction & Takedown Policy</h2>
-          <p className="mb-4">
-            If you are affiliated with an institution listed on this platform and believe our archival data is misrepresentative, out-of-date, or you simply wish to remove the profile, please contact our editorial team.
-          </p>
-          <p>
-            Corrections can be made automatically by utilizing the <a href="/claim-profile" className="text-primary hover:underline font-medium">Claim Profile</a> system to establish verified stewardship.
-          </p>
+        <section id="editorial-policy">
+          <h2 className="text-2xl font-serif mb-4">Editorial policy</h2>
+          <ul className="list-disc pl-5 space-y-3">
+            <li>
+              The platform prioritizes overseas institutional clarity and control before growth or
+              traffic expansion.
+            </li>
+            <li>
+              Profiles are written to help Chinese labs understand fit, not to maximize promotional
+              language.
+            </li>
+            <li>
+              We do not claim private access, guaranteed introductions, or automated matchmaking
+              capability.
+            </li>
+          </ul>
         </section>
 
+        <section id="correction-policy">
+          <h2 className="text-2xl font-serif mb-4">Correction and takedown path</h2>
+          <p className="mb-4">
+            Institutions that believe a profile is outdated, incomplete, or misrepresentative
+            should use the claim flow to submit verified corrections or request changes.
+          </p>
+          <p className="mb-4">
+            Corrections are reviewed as part of stewardship, not as anonymous edits. This keeps the
+            archive structured and reduces the risk of low-trust profile drift.
+          </p>
+          <Link to="/claim-profile" className="text-primary hover:underline font-medium">
+            Go to claim and correction intake
+          </Link>
+        </section>
+
+        <section id="non-goals">
+          <h2 className="text-2xl font-serif mb-4">What this version intentionally avoids</h2>
+          <ul className="list-disc pl-5 space-y-3">
+            <li>Login systems, private inboxes, or member dashboards.</li>
+            <li>Project management workflows after an introduction is made.</li>
+            <li>Large-scale social or community features.</li>
+            <li>Automatic recommendation engines without human screening.</li>
+          </ul>
+        </section>
       </div>
     </div>
   );

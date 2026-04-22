@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wxgpt.fangxiashouji.com/riscvscholars/sitemap.xml

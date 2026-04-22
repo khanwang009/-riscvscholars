@@ -8,10 +8,12 @@ import ClaimProfile from "./pages/ClaimProfile";
 import SubmitRequest from "./pages/SubmitRequest";
 import About from "./pages/About";
 import ResearchLines from "./pages/ResearchLines";
+import Admin from "./pages/Admin";
+import AdminLogin from "./pages/AdminLogin";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
@@ -22,6 +24,8 @@ function App() {
           <Route path="claim-profile" element={<ClaimProfile />} />
           <Route path="submit-request" element={<SubmitRequest />} />
           <Route path="about" element={<About />} />
+          <Route path="admin" element={<Admin />} />
+          <Route path="admin/login" element={<AdminLogin />} />
         </Route>
       </Routes>
     </BrowserRouter>

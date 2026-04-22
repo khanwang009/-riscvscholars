@@ -1,6 +1,6 @@
 {
   "name": "RISC-V Scholars",
-  "description": "RISC-V Scholars is a scholar-facing gateway for overseas–China RISC-V lab collaboration.",
+  "description": "RISC-V Scholars is a scholar-facing collaboration gateway for overseas-China RISC-V lab discovery, profile stewardship, and structured request intake.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }

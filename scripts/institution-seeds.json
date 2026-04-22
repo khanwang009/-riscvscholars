@@ -1,0 +1,229 @@
+[
+  {
+    "slug": "eth-zurich-pulp",
+    "institutionName": "ETH Zurich",
+    "labName": "PULP Platform",
+    "officialWebsite": "https://pulp-platform.org/",
+    "sourceUrls": [
+      "https://pulp-platform.org/",
+      "https://github.com/pulp-platform"
+    ]
+  },
+  {
+    "slug": "uc-berkeley-bar",
+    "institutionName": "University of California, Berkeley",
+    "labName": "Berkeley Architecture Research",
+    "officialWebsite": "https://bar.eecs.berkeley.edu/",
+    "sourceUrls": [
+      "https://bar.eecs.berkeley.edu/",
+      "https://eecs.berkeley.edu/"
+    ]
+  },
+  {
+    "slug": "bsc-open-architecture",
+    "institutionName": "Barcelona Supercomputing Center",
+    "labName": "Open Architecture Initiative",
+    "officialWebsite": "https://www.bsc.es/",
+    "sourceUrls": [
+      "https://www.bsc.es/",
+      "https://www.european-processor-initiative.eu/"
+    ]
+  },
+  {
+    "slug": "inria-taranis",
+    "institutionName": "Inria",
+    "labName": "Taranis and Open Hardware Research",
+    "officialWebsite": "https://www.inria.fr/",
+    "sourceUrls": [
+      "https://www.inria.fr/",
+      "https://www.inria.fr/en/research-teams"
+    ]
+  },
+  {
+    "slug": "iit-madras-shakti",
+    "institutionName": "Indian Institute of Technology Madras",
+    "labName": "RISE Lab / SHAKTI Processor Program",
+    "officialWebsite": "https://shakti.org.in/",
+    "sourceUrls": [
+      "https://shakti.org.in/"
+    ]
+  },
+  {
+    "slug": "princeton-openpiton",
+    "institutionName": "Princeton University",
+    "labName": "OpenPiton and Manycore Research",
+    "officialWebsite": "https://parallel.princeton.edu/openpiton/",
+    "sourceUrls": [
+      "https://parallel.princeton.edu/openpiton/",
+      "https://github.com/PrincetonUniversity/openpiton"
+    ]
+  },
+  {
+    "slug": "edinburgh-epcc-riscv",
+    "institutionName": "University of Edinburgh",
+    "labName": "EPCC RISC-V Testbed",
+    "officialWebsite": "https://riscv.epcc.ed.ac.uk/documentation/getting_started/",
+    "sourceUrls": [
+      "https://riscv.epcc.ed.ac.uk/documentation/getting_started/"
+    ]
+  },
+  {
+    "slug": "georgia-tech-vortex",
+    "institutionName": "Georgia Institute of Technology",
+    "labName": "Vortex GPGPU Research",
+    "officialWebsite": "https://vortex.cc.gatech.edu/",
+    "sourceUrls": [
+      "https://vortex.cc.gatech.edu/",
+      "https://github.com/vortexgpgpu/vortex"
+    ]
+  },
+  {
+    "slug": "upc-vitamin-v",
+    "institutionName": "Universitat Politècnica de Catalunya",
+    "labName": "Vitamin-V and Cloud RISC-V Research",
+    "officialWebsite": "https://telecos.upc.edu/en/news/a-pioneering-open-source-platform-for-the-next-generation-of-cloud-applications",
+    "sourceUrls": [
+      "https://telecos.upc.edu/en/news/a-pioneering-open-source-platform-for-the-next-generation-of-cloud-applications"
+    ]
+  },
+  {
+    "slug": "asu-trireme",
+    "institutionName": "Arizona State University",
+    "labName": "STAM Center / Trireme Platform",
+    "officialWebsite": "https://stamcenter.asu.edu/2022/07/risc-v-development-platform/",
+    "sourceUrls": [
+      "https://stamcenter.asu.edu/2022/07/risc-v-development-platform/"
+    ]
+  },
+  {
+    "slug": "cambridge-cheri-riscv",
+    "institutionName": "University of Cambridge",
+    "labName": "CTSRD / CHERI-RISC-V",
+    "officialWebsite": "https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/cheri-risc-v.html",
+    "sourceUrls": [
+      "https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/cheri-risc-v.html",
+      "https://github.com/CTSRD-CHERI/cheri-specification"
+    ]
+  },
+  {
+    "slug": "ku-leuven-advise",
+    "institutionName": "KU Leuven",
+    "labName": "ADVISE Fault-Tolerant RISC-V Research",
+    "officialWebsite": "https://iiw.kuleuven.be/nieuws-en-agenda/nieuws/advise-presenteert-eerste-succesvol-gevalideerde-risc-v-processor-2",
+    "sourceUrls": [
+      "https://iiw.kuleuven.be/nieuws-en-agenda/nieuws/advise-presenteert-eerste-succesvol-gevalideerde-risc-v-processor-2"
+    ]
+  },
+  {
+    "slug": "bristol-scarv",
+    "institutionName": "University of Bristol",
+    "labName": "SCARV Security Architecture Research",
+    "officialWebsite": "https://www.bristol.ac.uk/people/person/Daniel-Page-a164f666-4488-428a-b7d3-6aeed2f3fda8/",
+    "sourceUrls": [
+      "https://www.bristol.ac.uk/people/person/Daniel-Page-a164f666-4488-428a-b7d3-6aeed2f3fda8/"
+    ]
+  },
+  {
+    "slug": "usask-starr-starrisc",
+    "institutionName": "University of Saskatchewan",
+    "labName": "STARR Lab / StarRISC",
+    "officialWebsite": "https://research-groups.usask.ca/starr-lab/research-projects.php",
+    "sourceUrls": [
+      "https://research-groups.usask.ca/starr-lab/research-projects.php"
+    ]
+  },
+  {
+    "slug": "nkua-heterogeneous-riscv",
+    "institutionName": "National and Kapodistrian University of Athens",
+    "labName": "Heterogeneous RISC-V Systems Research",
+    "officialWebsite": "https://www.di.uoa.gr/announcements/1821",
+    "sourceUrls": [
+      "https://www.di.uoa.gr/announcements/1821"
+    ]
+  },
+  {
+    "slug": "iisc-reconfigurable-computing-lab",
+    "institutionName": "Indian Institute of Science Bangalore",
+    "labName": "Reconfigurable Computing Lab",
+    "officialWebsite": "https://labs.dese.iisc.ac.in/rclab/",
+    "sourceUrls": [
+      "https://labs.dese.iisc.ac.in/rclab/"
+    ]
+  },
+  {
+    "slug": "polito-riscv-accelerators",
+    "institutionName": "Politecnico di Torino",
+    "labName": "RISC-V Extensions and Hardware Accelerators",
+    "officialWebsite": "https://www.det.polito.it/research/activities/microelectronics/risc_v_extensions_and_hardware_accelerators",
+    "sourceUrls": [
+      "https://www.det.polito.it/research/activities/microelectronics/risc_v_extensions_and_hardware_accelerators"
+    ]
+  },
+  {
+    "slug": "tu-graz-runtime-riscv-mcus",
+    "institutionName": "TU Graz",
+    "labName": "Runtime-Reconfigurable RISC-V MCUs",
+    "officialWebsite": "https://www.tugraz.at/institute/iti/lehre/offene-projekte/runtime-reconfigurable-risc-v-mcus",
+    "sourceUrls": [
+      "https://www.tugraz.at/institute/iti/lehre/offene-projekte/runtime-reconfigurable-risc-v-mcus"
+    ]
+  },
+  {
+    "slug": "ucsb-openpiton-byoc",
+    "institutionName": "University of California, Santa Barbara",
+    "labName": "Open Hardware Systems Research",
+    "officialWebsite": "https://www.cs.ucsb.edu/people/faculty/jonathan-balkind",
+    "sourceUrls": [
+      "https://www.cs.ucsb.edu/people/faculty/jonathan-balkind"
+    ]
+  },
+  {
+    "slug": "harvey-mudd-riscv-design",
+    "institutionName": "Harvey Mudd College",
+    "labName": "RISC-V Microprocessor Design and Verification",
+    "officialWebsite": "https://pages.hmc.edu/harris/ddca/ddcarv.html",
+    "sourceUrls": [
+      "https://pages.hmc.edu/harris/ddca/ddcarv.html",
+      "https://www.hmc.edu/about/2025/02/18/faculty-profile-david-harris/"
+    ]
+  },
+  {
+    "slug": "epfl-x-heep",
+    "institutionName": "École polytechnique fédérale de Lausanne",
+    "labName": "Embedded Systems Laboratory / X-HEEP",
+    "officialWebsite": "https://www.epfl.ch/labs/esl/x-heep-designing-healthcare-devices-of-the-future/",
+    "sourceUrls": [
+      "https://www.epfl.ch/labs/esl/x-heep-designing-healthcare-devices-of-the-future/",
+      "https://github.com/esl-epfl/x-heep"
+    ]
+  },
+  {
+    "slug": "rice-rvr-lab",
+    "institutionName": "Rice University",
+    "labName": "Rice RISC-V Research and Projects",
+    "officialWebsite": "https://riscv.rice.edu/projects/",
+    "sourceUrls": [
+      "https://riscv.rice.edu/projects/"
+    ]
+  },
+  {
+    "slug": "bu-blackparrot",
+    "institutionName": "Boston University",
+    "labName": "BlackParrot Open-Source Multicore Processor",
+    "officialWebsite": "https://www.bu.edu/cise/research/blackparrot-an-open-source-risc-v-multicore-processor/",
+    "sourceUrls": [
+      "https://www.bu.edu/cise/research/blackparrot-an-open-source-risc-v-multicore-processor/",
+      "https://github.com/black-parrot/black-parrot"
+    ]
+  },
+  {
+    "slug": "columbia-esp",
+    "institutionName": "Columbia University",
+    "labName": "ESP SoC and Accelerator Platform",
+    "officialWebsite": "https://www.esp.cs.columbia.edu/",
+    "sourceUrls": [
+      "https://www.esp.cs.columbia.edu/",
+      "https://github.com/sld-columbia/esp"
+    ]
+  }
+]

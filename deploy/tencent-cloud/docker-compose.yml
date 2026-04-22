@@ -1,0 +1,43 @@
+services:
+  riscvscholars-api:
+    build:
+      context: ../..
+      dockerfile: deploy/tencent-cloud/Dockerfile.api
+    image: riscvscholars-api:latest
+    container_name: riscvscholars-api
+    restart: unless-stopped
+    env_file:
+      - ./env/backend.env
+    ports:
+      - "127.0.0.1:15000:4000"
+    volumes:
+      - riscvscholars-intake-data:/app/runtime-data
+      - ../../src/data/institutions.json:/app/canonical-data/institutions.json
+      - ../..:/workspace
+      - /var/run/docker.sock:/var/run/docker.sock
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:4000/health || exit 1"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 15s
+
+  riscvscholars-web:
+    build:
+      context: ../..
+      dockerfile: deploy/tencent-cloud/Dockerfile.web
+      args:
+        VITE_APP_BASE: /riscvscholars/
+        VITE_INTAKE_WEBHOOK_URL: /riscvscholars-api/api/intake
+    image: riscvscholars-web:latest
+    container_name: riscvscholars-web
+    restart: unless-stopped
+    depends_on:
+      riscvscholars-api:
+        condition: service_healthy
+    ports:
+      - "127.0.0.1:15080:80"
+
+volumes:
+  riscvscholars-intake-data:
+    name: riscvscholars-intake-data

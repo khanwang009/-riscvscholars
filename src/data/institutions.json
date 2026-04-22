@@ -1,0 +1,1835 @@
+[
+  {
+    "slug": "eth-zurich-pulp",
+    "institutionName": "ETH Zurich",
+    "labName": "PULP Platform",
+    "institutionType": "Academic Lab",
+    "country": "Switzerland",
+    "city": "Zurich",
+    "officialWebsite": "https://pulp-platform.org/",
+    "summary": "One of the most credible open RISC-V academic ecosystems for low-power silicon, open tooling, and reusable processor IP.",
+    "researchAreas": [
+      "edge-ai",
+      "open-platforms"
+    ],
+    "researchFocus": "Parallel ultra-low-power RISC-V architectures, open-source IP blocks, and end-to-end hardware/software co-design for embedded systems.",
+    "projectKeywords": [
+      "RI5CY",
+      "Ibex",
+      "Snitch",
+      "open-source silicon",
+      "cv32e40p",
+      "riscv",
+      "cva6",
+      "ariane",
+      "zero-riscy",
+      "pulpissimo",
+      "pull",
+      "requests",
+      "searches",
+      "filter"
+    ],
+    "representativeProjects": [
+      "RI5CY / Ibex",
+      "Snitch",
+      "PULPissimo",
+      "CV32E40P",
+      "CVA6 / Ariane",
+      "Zero-riscy",
+      "riscv",
+      "cva6",
+      "ariane",
+      "ibex"
+    ],
+    "ecosystemRole": [
+      "Open-source silicon ecosystem anchor",
+      "Low-power RISC-V research and IP platform"
+    ],
+    "representativeOutputs": [
+      "Processor IP",
+      "SoC platform",
+      "FPGA and silicon enablement",
+      "Does your company or institution use PULP? Please, let us know via email info@pulp-platform.org or send us a direct message on Twitter . We would love to expand our user list.",
+      "27 August 2025 Philippe won The Best Poster award for \"34 mm² End-to-End Open-Source 64-bit Linux-Capable RISC-V SoC in 130nm BiCMOS\" at Hot Chips 2025. Find his poster here .",
+      "31 July 2025 Our paper \"A Dynamic Allocation Scheme for Adaptive Shared-memory Mapping on Kilo-core RV Clusters for Attention-based Model Deployment\" got the Best Paper Award at ASAP2025 in Vancouver.",
+      "carfield carfield Public A mixed-criticality platform built around Cheshire, with a number of safety/security and predictability features. Ready-to-use FPGA flow on multiple boards is available.",
+      "cheshire cheshire Public A minimal Linux-capable 64-bit RISC-V SoC built around CVA6"
+    ],
+    "industryCollaborationSignals": [
+      "Open-source ecosystem participation",
+      "University and tooling partnerships"
+    ],
+    "openSourceFootprint": [
+      "GitHub organization with reusable RISC-V cores and platforms",
+      "https://github.com/pulp-platform/snitch",
+      "https://github.com/openhwgroup/cv32e40p",
+      "https://web.archive.org/web/20260208221643/https://github.com/pulp-platform/riscv",
+      "https://github.com/openhwgroup/cva6",
+      "https://web.archive.org/web/20260208221643/https://github.com/pulp-platform/ariane",
+      "https://github.com/lowRISC/ibex",
+      "https://web.archive.org/web/20260208221643/https://github.com/pulp-platform/zero-riscy"
+    ],
+    "notablePartners": [
+      "Università di Bologna",
+      "Open hardware ecosystem collaborators",
+      "GF University Partnership Program"
+    ],
+    "benchmarkOrTapeoutSignals": [
+      "Public benchmark and silicon program references"
+    ],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "GitHub organization",
+        "url": "https://github.com/pulp-platform"
+      }
+    ],
+    "proofOfRelevance": [
+      "Publicly visible reusable IP used across multiple open RISC-V projects",
+      "27 August 2025 Philippe won The Best Poster award for \"34 mm² End-to-End Open-Source 64-bit Linux-Capable RISC-V SoC in 130nm BiCMOS\" at Hot Chips 2025. Find his poster here .",
+      "carfield carfield Public A mixed-criticality platform built around Cheshire, with a number of safety/security and predictability features. Ready-to-use FPGA flow on multiple boards is available.",
+      "cheshire cheshire Public A minimal Linux-capable 64-bit RISC-V SoC built around CVA6",
+      "snitch_cluster snitch_cluster Public An energy-efficient RISC-V floating-point compute cluster."
+    ],
+    "collaborationInterests": [
+      "Joint benchmark design for edge AI workloads",
+      "Open-source hardware IP contribution and integration",
+      "Cross-lab workshops on low-power RISC-V systems"
+    ],
+    "collaborationTypes": [
+      "joint_benchmark",
+      "open_source_contribution",
+      "workshop"
+    ],
+    "acceptsRequests": true,
+    "requestStatusNote": "Best fit for labs that can contribute code, silicon validation, or focused benchmarking assets.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Strong anchor profile for the site because it is source-rich, internationally visible, and legible to Chinese hardware labs.",
+    "sources": [
+      {
+        "label": "PULP Platform",
+        "url": "https://pulp-platform.org/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/pulp-platform"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "uc-berkeley-bar",
+    "institutionName": "University of California, Berkeley",
+    "labName": "Berkeley Architecture Research",
+    "institutionType": "University Research Group",
+    "country": "United States",
+    "city": "Berkeley",
+    "officialWebsite": "https://bar.eecs.berkeley.edu/",
+    "summary": "A foundational academic node for RISC-V architecture, agile hardware design, and ecosystem-defining open tooling.",
+    "researchAreas": [
+      "agile-arch",
+      "open-platforms"
+    ],
+    "researchFocus": "Advanced computer architecture, Chisel-based hardware design, and open research infrastructure that shaped the broader RISC-V movement.",
+    "projectKeywords": [
+      "Rocket Chip",
+      "BOOM",
+      "Chisel",
+      "RISC-V origin",
+      "homepage",
+      "learn",
+      "some",
+      "things",
+      "currently",
+      "working",
+      "follow",
+      "links"
+    ],
+    "representativeProjects": [
+      "Rocket Chip",
+      "BOOM",
+      "Chisel"
+    ],
+    "ecosystemRole": [
+      "Foundational architecture research node",
+      "Origin point for major RISC-V tooling and cores"
+    ],
+    "representativeOutputs": [
+      "Open hardware generators",
+      "Architecture research tooling"
+    ],
+    "industryCollaborationSignals": [
+      "Strong ecosystem influence through open research infrastructure"
+    ],
+    "openSourceFootprint": [
+      "Public release of influential hardware design projects"
+    ],
+    "notablePartners": [
+      "RISC-V ecosystem researchers and academic collaborators"
+    ],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [],
+    "proofOfRelevance": [
+      "Widely recognized origin of core RISC-V research artifacts"
+    ],
+    "collaborationInterests": [
+      "Selective academic research engagement with highly aligned peer groups",
+      "Visiting scholar style exchanges tied to strong architectural agendas"
+    ],
+    "collaborationTypes": [
+      "joint_research",
+      "student_exchange"
+    ],
+    "acceptsRequests": false,
+    "requestStatusNote": "Treat as a browse-first profile unless a formal academic channel already exists.",
+    "claimStatus": "claim_requested",
+    "editorialNote": "Critical for ecosystem context, but collaboration should be framed with precision rather than broad outbound requests.",
+    "sources": [
+      {
+        "label": "BAR",
+        "url": "https://bar.eecs.berkeley.edu/"
+      },
+      {
+        "label": "EECS Berkeley",
+        "url": "https://eecs.berkeley.edu/"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "bsc-open-architecture",
+    "institutionName": "Barcelona Supercomputing Center",
+    "labName": "Open Architecture Initiative",
+    "institutionType": "National Research Center",
+    "country": "Spain",
+    "city": "Barcelona",
+    "officialWebsite": "https://www.bsc.es/",
+    "summary": "A leading European node for RISC-V HPC, accelerators, and vector-oriented system research with strong consortium experience.",
+    "researchAreas": [
+      "hpc-vector",
+      "open-platforms"
+    ],
+    "researchFocus": "High-performance compute accelerators, vector extension research, and system-level benchmarking for sovereign compute programs.",
+    "projectKeywords": [
+      "Lagarto",
+      "EPI",
+      "RVV",
+      "HPC accelerator",
+      "presents",
+      "first",
+      "quantum"
+    ],
+    "representativeProjects": [
+      "Lagarto Processor",
+      "EPI accelerator workstreams"
+    ],
+    "ecosystemRole": [
+      "European HPC and vector research node",
+      "Cross-institution compute initiative participant",
+      "Framework partnership agreement in European low-power microprocessor technologies"
+    ],
+    "representativeOutputs": [
+      "Processor prototypes",
+      "Benchmarking and systems research outputs",
+      "EU Exascale machine based on EU processor",
+      "Framework partnership agreement in European low-power microprocessor technologies"
+    ],
+    "industryCollaborationSignals": [
+      "Consortium and program participation",
+      "Joint benchmarking signals",
+      "Collaboration with companies",
+      "Framework partnership agreement in European low-power microprocessor technologies",
+      "EPI Partners"
+    ],
+    "openSourceFootprint": [
+      "Public project and initiative references in HPC-oriented RISC-V work",
+      "https://www.european-processor-initiative.eu/wp-content/themes/european-processor-initiative/assets/img/favicon.ico",
+      "https://www.european-processor-initiative.eu/",
+      "https://www.european-processor-initiative.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.european-processor-initiative.eu%2F",
+      "https://www.european-processor-initiative.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.european-processor-initiative.eu%2F&#038;format=xml",
+      "https://www.european-processor-initiative.eu/wp-content/plugins/custom-twitter-feeds-pro/css/ctf-styles.min.css?ver=2.4.6",
+      "https://www.european-processor-initiative.eu/wp-content/themes/european-processor-initiative/assets/css/app.css?ver=6.9.4",
+      "https://www.european-processor-initiative.eu/wp-content/themes/european-processor-initiative/node_modules/slick-carousel/slick/slick.css?ver=6.9.4"
+    ],
+    "notablePartners": [
+      "European Processor Initiative",
+      "Barcelona Supercomputing Center Pla&ccedil"
+    ],
+    "benchmarkOrTapeoutSignals": [
+      "Public accelerator and benchmark program references"
+    ],
+    "representativePapers": [],
+    "openResources": [],
+    "proofOfRelevance": [
+      "Visible role in European sovereign compute and vector research",
+      "BSC has a portfolio of over 150 research projects financed by public and private sources both national and international."
+    ],
+    "collaborationInterests": [
+      "Joint benchmark design for vector workloads",
+      "Workshop-style exchange on HPC hardware/software co-design",
+      "Joint research proposals with international academic consortia"
+    ],
+    "collaborationTypes": [
+      "joint_benchmark",
+      "joint_research",
+      "workshop"
+    ],
+    "acceptsRequests": true,
+    "requestStatusNote": "A strong fit for teams with measurable benchmarking capability or systems software depth.",
+    "claimStatus": "claimed",
+    "editorialNote": "Useful as a phase-1 example of an institution profile that is open to structured collaboration intake.",
+    "sources": [
+      {
+        "label": "BSC",
+        "url": "https://www.bsc.es/"
+      },
+      {
+        "label": "European Processor Initiative",
+        "url": "https://www.european-processor-initiative.eu/"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "inria-taranis",
+    "institutionName": "Inria",
+    "labName": "Taranis and Open Hardware Research",
+    "institutionType": "National Research Institute",
+    "country": "France",
+    "city": "Paris",
+    "officialWebsite": "https://www.inria.fr/",
+    "summary": "An open research profile representing formal methods, secure systems, and academic participation in open hardware ecosystems.",
+    "researchAreas": [
+      "agile-arch",
+      "open-platforms"
+    ],
+    "researchFocus": "Secure systems research, formal validation, and reusable open infrastructure relevant to RISC-V academic collaboration.",
+    "projectKeywords": [
+      "formal verification",
+      "secure systems",
+      "open hardware"
+    ],
+    "representativeProjects": [
+      "Open hardware verification studies",
+      "Secure systems prototypes"
+    ],
+    "ecosystemRole": [
+      "Formal methods and secure systems research node"
+    ],
+    "representativeOutputs": [
+      "Verification research outputs",
+      "Security-oriented prototypes"
+    ],
+    "industryCollaborationSignals": [
+      "Potential fit for specialized research collaboration"
+    ],
+    "openSourceFootprint": [
+      "Public institutional research portfolio"
+    ],
+    "notablePartners": [],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [],
+    "proofOfRelevance": [
+      "Useful for secure architecture and verification-focused collaboration mapping"
+    ],
+    "collaborationInterests": [
+      "Joint research on verification and secure architecture",
+      "Small, high-signal workshops or focused exchange programs"
+    ],
+    "collaborationTypes": [
+      "joint_research",
+      "workshop"
+    ],
+    "acceptsRequests": true,
+    "requestStatusNote": "Best for teams with a concrete technical thesis, not for broad generic outreach.",
+    "claimStatus": "verified_update_pending",
+    "editorialNote": "Good sample profile for demonstrating that verified institutions can still have pending editorial updates.",
+    "sources": [
+      {
+        "label": "Inria",
+        "url": "https://www.inria.fr/"
+      },
+      {
+        "label": "Research teams",
+        "url": "https://www.inria.fr/en/research-teams"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "iit-madras-shakti",
+    "institutionName": "Indian Institute of Technology Madras",
+    "labName": "RISE Lab / SHAKTI Processor Program",
+    "institutionType": "University Processor Program",
+    "country": "India",
+    "city": "Chennai",
+    "officialWebsite": "https://shakti.org.in/",
+    "summary": "A public RISC-V processor program spanning core families, SoCs, software enablement, and developer-facing hardware from IIT Madras.",
+    "researchAreas": [
+      "edge-ai",
+      "open-platforms"
+    ],
+    "researchFocus": "Open RISC-V processor design, SoC integration, software enablement, and developer platforms for Indian academic and industrial ecosystems.",
+    "projectKeywords": [
+      "SHAKTI",
+      "RISC-V processors",
+      "SoC",
+      "developer boards",
+      "Processor",
+      "RISE"
+    ],
+    "representativeProjects": [
+      "SHAKTI C-class",
+      "SHAKTI E-class",
+      "SHAKTI development boards"
+    ],
+    "ecosystemRole": [
+      "Open-source processor development initiative by the RISE group at IIT-Madras. The aim is to build an ecosystem of production grade processors, SoC's and peripheral IP's.",
+      "An open source processor ecosystem to boost customization, collaboration between academia and industry to provide innovative, customized solutions without the hassles of royalties and NDA.",
+      "The SHAKTI Processor Program, was started as an academic initiative back in 2014 by the RISE group at IIT-Madras. Source code of all the components of the SHAKTI ecosystem are open under the 3 part BSD license.",
+      "Open Source Processor Development Ecosystem"
+    ],
+    "representativeOutputs": [
+      "Open-source processor development initiative by the RISE group at IIT-Madras. The aim is to build an ecosystem of production grade processors, SoC's and peripheral IP's.",
+      "An open source processor ecosystem to boost customization, collaboration between academia and industry to provide innovative, customized solutions without the hassles of royalties and NDA.",
+      "The SHAKTI Processor Program, was started as an academic initiative back in 2014 by the RISE group at IIT-Madras. Source code of all the components of the SHAKTI ecosystem are open under the 3 part BSD license.",
+      "Open Source Processor Development Ecosystem"
+    ],
+    "industryCollaborationSignals": [
+      "Open-source processor development initiative by the RISE group at IIT-Madras. The aim is to build an ecosystem of production grade processors, SoC's and peripheral IP's.",
+      "We welcome collaborations from industry, academic institutions and individuals. Please browse through the open-issues that we are currently working. If interested, let us know.",
+      "An open source processor ecosystem to boost customization, collaboration between academia and industry to provide innovative, customized solutions without the hassles of royalties and NDA.",
+      "The SHAKTI Processor Program, was started as an academic initiative back in 2014 by the RISE group at IIT-Madras. Source code of all the components of the SHAKTI ecosystem are open under the 3 part BSD license."
+    ],
+    "openSourceFootprint": [
+      "https://gitlab.com/shaktiproject/cores/e-class/blob/master/README.md",
+      "https://gitlab.com/shaktiproject/cores/c-class/blob/master/README.md",
+      "https://gitlab.com/shaktiproject/cores/shakti-soc/-/blob/master/README.rst",
+      "https://riscv.org/2018/06/risc-v-workshop-in-chennai/",
+      "https://gitlab.com/shaktiproject"
+    ],
+    "notablePartners": [
+      "Indian Institute"
+    ],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "Official program site",
+        "url": "https://shakti.org.in/"
+      }
+    ],
+    "proofOfRelevance": [
+      "Open-source processor development initiative by the RISE group at IIT-Madras. The aim is to build an ecosystem of production grade processors, SoC's and peripheral IP's.",
+      "The SHAKTI Processor Program, was started as an academic initiative back in 2014 by the RISE group at IIT-Madras. Source code of all the components of the SHAKTI ecosystem are open under the 3 part BSD license."
+    ],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "SHAKTI",
+        "url": "https://shakti.org.in/"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "princeton-openpiton",
+    "institutionName": "Princeton University",
+    "labName": "OpenPiton and Manycore Research",
+    "institutionType": "University Research Platform",
+    "country": "United States",
+    "city": "Princeton",
+    "officialWebsite": "https://parallel.princeton.edu/openpiton/",
+    "summary": "An academic open manycore platform for architecture and systems research around OpenPiton and its RISC-V integrations.",
+    "researchAreas": [
+      "agile-arch",
+      "open-platforms"
+    ],
+    "researchFocus": "Scalable manycore architecture, open hardware infrastructure, and system software experimentation around OpenPiton and RISC-V-compatible compute fabrics.",
+    "projectKeywords": [
+      "OpenPiton",
+      "manycore",
+      "Ariane",
+      "architecture research",
+      "copilot",
+      "spark",
+      "models",
+      "codespaces",
+      "code-review",
+      "advanced-security",
+      "startups",
+      "Processor",
+      "build"
+    ],
+    "representativeProjects": [
+      "OpenPiton",
+      "OpenPiton + Ariane",
+      "copilot",
+      "spark",
+      "models",
+      "codespaces",
+      "code-review",
+      "advanced-security",
+      "startups"
+    ],
+    "ecosystemRole": [],
+    "representativeOutputs": [
+      "OpenPiton, the open source Princeton Piton processor.",
+      "Open Source Research Processor",
+      "OpenPiton Open Source Research Processor",
+      "Download, build, tape-out!"
+    ],
+    "industryCollaborationSignals": [],
+    "openSourceFootprint": [
+      "https://github.com/PrincetonUniversity/openpiton",
+      "https://github.com/opensearch.xml",
+      "https://github.com/fluidicon.png",
+      "https://github.com/manifest.json",
+      "https://github.com/",
+      "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FPrincetonUniversity%2Fopenpiton",
+      "https://github.com/features/copilot",
+      "https://github.com/features/spark"
+    ],
+    "notablePartners": [
+      "PrincetonUniversity"
+    ],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "OpenPiton",
+        "url": "https://parallel.princeton.edu/openpiton/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/PrincetonUniversity/openpiton"
+      }
+    ],
+    "proofOfRelevance": [],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "OpenPiton",
+        "url": "https://parallel.princeton.edu/openpiton/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/PrincetonUniversity/openpiton"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "edinburgh-epcc-riscv",
+    "institutionName": "University of Edinburgh",
+    "labName": "EPCC RISC-V Testbed",
+    "institutionType": "University HPC Centre",
+    "country": "United Kingdom",
+    "city": "Edinburgh",
+    "officialWebsite": "https://riscv.epcc.ed.ac.uk/documentation/getting_started/",
+    "summary": "A public HPC testbed and documentation hub for evaluating RISC-V in supercomputing workflows and academic benchmarking.",
+    "researchAreas": [
+      "hpc-vector",
+      "open-platforms"
+    ],
+    "researchFocus": "HPC-oriented RISC-V enablement, testbed operations, and software bring-up for supercomputing and systems experimentation.",
+    "projectKeywords": [
+      "EPCC",
+      "RISC-V testbed",
+      "HPC",
+      "ExCALIBUR",
+      "riscv-gnu-toolchain",
+      "so-simple-theme",
+      "links",
+      "started",
+      "line",
+      "access",
+      "RISC-V",
+      "compilers"
+    ],
+    "representativeProjects": [
+      "EPCC RISC-V testbed",
+      "ExCALIBUR hardware and enabling software",
+      "riscv-gnu-toolchain",
+      "so-simple-theme",
+      "RISC-V compilers and libraries"
+    ],
+    "ecosystemRole": [],
+    "representativeOutputs": [
+      "RISC-V compilers and libraries"
+    ],
+    "industryCollaborationSignals": [],
+    "openSourceFootprint": [
+      "https://github.com/riscv-collab/riscv-gnu-toolchain",
+      "https://github.com/brucehoult/riscv-gnu-toolchain/tree/rvv-0.7.1",
+      "https://github.com/riscv-collab/riscv-gnu-toolchain/pull/1166",
+      "https://github.com/mmistakes/so-simple-theme"
+    ],
+    "notablePartners": [],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "EPCC RISC-V testbed",
+        "url": "https://riscv.epcc.ed.ac.uk/documentation/getting_started/"
+      }
+    ],
+    "proofOfRelevance": [],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "EPCC RISC-V testbed",
+        "url": "https://riscv.epcc.ed.ac.uk/documentation/getting_started/"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "georgia-tech-vortex",
+    "institutionName": "Georgia Institute of Technology",
+    "labName": "Vortex GPGPU Research",
+    "institutionType": "University Research Group",
+    "country": "United States",
+    "city": "Atlanta",
+    "officialWebsite": "https://vortex.cc.gatech.edu/",
+    "summary": "A research effort building Vortex, a RISC-V GPGPU platform for accelerator architecture, programming models, and FPGA experimentation.",
+    "researchAreas": [
+      "hpc-vector",
+      "agile-arch"
+    ],
+    "researchFocus": "RISC-V GPGPU architecture, accelerator software stacks, and programmable manycore research for high-throughput computing.",
+    "projectKeywords": [
+      "Vortex",
+      "RISC-V GPGPU",
+      "OpenCL",
+      "FPGA",
+      "copilot",
+      "spark",
+      "models",
+      "codespaces",
+      "code-review",
+      "advanced-security",
+      "startups",
+      "industry",
+      "RISC-V"
+    ],
+    "representativeProjects": [
+      "Vortex GPGPU",
+      "copilot",
+      "spark",
+      "models",
+      "codespaces",
+      "code-review",
+      "advanced-security",
+      "startups",
+      "industry"
+    ],
+    "ecosystemRole": [],
+    "representativeOutputs": [
+      "Ubuntu 18.04, 20.04, 22.04, 24.04 Centos 7 Toolchain Dependencies The following dependencies will be fetched prebuilt by toolchain_install.sh ."
+    ],
+    "industryCollaborationSignals": [
+      "New Vortex Workshop and Tutorial at MICRO 2025"
+    ],
+    "openSourceFootprint": [
+      "https://github.com/vortexgpgpu/",
+      "https://github.com/opensearch.xml",
+      "https://github.com/fluidicon.png",
+      "https://github.com/manifest.json",
+      "https://github.com/",
+      "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fvortexgpgpu%2Fvortex",
+      "https://github.com/features/copilot",
+      "https://github.com/features/spark"
+    ],
+    "notablePartners": [],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "Vortex",
+        "url": "https://vortex.cc.gatech.edu/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/vortexgpgpu/vortex"
+      }
+    ],
+    "proofOfRelevance": [
+      "Recent Publications See All"
+    ],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "Vortex",
+        "url": "https://vortex.cc.gatech.edu/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/vortexgpgpu/vortex"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "upc-vitamin-v",
+    "institutionName": "Universitat Politècnica de Catalunya",
+    "labName": "Vitamin-V and Cloud RISC-V Research",
+    "institutionType": "University Research Group",
+    "country": "Spain",
+    "city": "Barcelona",
+    "officialWebsite": "https://telecos.upc.edu/en/news/a-pioneering-open-source-platform-for-the-next-generation-of-cloud-applications",
+    "summary": "A cloud and accelerator-oriented RISC-V effort around Vitamin-V and academic platform development for next-generation infrastructure workloads.",
+    "researchAreas": [
+      "hpc-vector",
+      "open-platforms"
+    ],
+    "researchFocus": "Open RISC-V platforms for cloud applications, accelerator-rich systems, and European-scale compute infrastructure research.",
+    "projectKeywords": [
+      "Vitamin-V",
+      "cloud applications",
+      "Sargantana",
+      "RISC-V platform",
+      "networks",
+      "list",
+      "pioneering",
+      "open-source",
+      "next",
+      "generation",
+      "cloud",
+      "applications"
+    ],
+    "representativeProjects": [
+      "Vitamin-V",
+      "Sargantana"
+    ],
+    "ecosystemRole": [],
+    "representativeOutputs": [
+      "A pioneering open-source platform for the next generation of cloud applications",
+      "Social networks list"
+    ],
+    "industryCollaborationSignals": [],
+    "openSourceFootprint": [
+      "https://telecos.upc.edu/en/news/a-pioneering-open-source-platform-for-the-next-generation-of-cloud-applications",
+      "https://telecos.upc.edu/en/news/a-pioneering-open-source-platform-for-the-next-generation-of-cloud-applications/login",
+      "https://bsky.app/intent/compose?text=A%20pioneering%20open-source%20platform%20for%20the%20next%20generation%20of%20cloud%20applications%20https://telecos.upc.edu/resolveuid/2ffe25ac904c4336902e55e50220e4cf",
+      "https://wa.me/?text=A%20pioneering%20open-source%20platform%20for%20the%20next%20generation%20of%20cloud%20applications%20https://telecos.upc.edu/resolveuid/2ffe25ac904c4336902e55e50220e4cf",
+      "https://telecos.upc.edu/en/news/a-pioneering-open-source-platform-for-the-next-generation-of-cloud-applications/@@images/image-800-b9ed58c00ea131000865b410e00f58d4.jpeg"
+    ],
+    "notablePartners": [],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "UPC Vitamin-V announcement",
+        "url": "https://telecos.upc.edu/en/news/a-pioneering-open-source-platform-for-the-next-generation-of-cloud-applications"
+      }
+    ],
+    "proofOfRelevance": [
+      "A pioneering open-source platform for the next generation of cloud applications"
+    ],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "UPC Vitamin-V announcement",
+        "url": "https://telecos.upc.edu/en/news/a-pioneering-open-source-platform-for-the-next-generation-of-cloud-applications"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "asu-trireme",
+    "institutionName": "Arizona State University",
+    "labName": "STAM Center / Trireme Platform",
+    "institutionType": "University Research Center",
+    "country": "United States",
+    "city": "Tempe",
+    "officialWebsite": "https://stamcenter.asu.edu/2022/07/risc-v-development-platform/",
+    "summary": "A university platform effort around Trireme for RISC-V design-space exploration, Linux bring-up, and system-level experimentation.",
+    "researchAreas": [
+      "hpc-vector",
+      "agile-arch"
+    ],
+    "researchFocus": "RISC-V system exploration, architecture evaluation, and software bring-up for research platforms that bridge hardware and operating systems.",
+    "projectKeywords": [
+      "Trireme",
+      "design-space exploration",
+      "Linux boot",
+      "RISC-V platform",
+      "RISC-V",
+      "version",
+      "released",
+      "complete",
+      "environment",
+      "based",
+      "design",
+      "space",
+      "exploration",
+      "testing"
+    ],
+    "representativeProjects": [
+      "Trireme",
+      "RISC-V Development Platform"
+    ],
+    "ecosystemRole": [],
+    "representativeOutputs": [
+      "Trireme Platform Link: https://www.trireme-riscv.org/",
+      "RISC-V Development Platform"
+    ],
+    "industryCollaborationSignals": [],
+    "openSourceFootprint": [
+      "https://www.trireme-riscv.org/",
+      "https://github.com/stamcenter"
+    ],
+    "notablePartners": [],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "ASU Trireme platform",
+        "url": "https://stamcenter.asu.edu/2022/07/risc-v-development-platform/"
+      }
+    ],
+    "proofOfRelevance": [],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "ASU Trireme platform",
+        "url": "https://stamcenter.asu.edu/2022/07/risc-v-development-platform/"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "cambridge-cheri-riscv",
+    "institutionName": "University of Cambridge",
+    "labName": "CTSRD / CHERI-RISC-V",
+    "institutionType": "University Security Research Group",
+    "country": "United Kingdom",
+    "city": "Cambridge",
+    "officialWebsite": "https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/cheri-risc-v.html",
+    "summary": "A security architecture research node for CHERI-RISC-V, capability-based systems, and trusted platform work spanning hardware and software.",
+    "researchAreas": [
+      "agile-arch",
+      "open-platforms"
+    ],
+    "researchFocus": "Capability-based RISC-V architecture, trusted software stacks, and security-oriented hardware and systems research.",
+    "projectKeywords": [
+      "CHERI-RISC-V",
+      "capability systems",
+      "security architecture",
+      "trusted systems",
+      "sail-cheri-riscv",
+      "cheribuild",
+      "qemu",
+      "llvm-project"
+    ],
+    "representativeProjects": [
+      "CHERI-RISC-V",
+      "sail-cheri-riscv",
+      "cheribuild",
+      "qemu",
+      "llvm-project"
+    ],
+    "ecosystemRole": [
+      "There is now a CHERI SIG in the RISC-V International organization, which is preparing to launch a Task Group on CHERI-RISC-V standardization."
+    ],
+    "representativeOutputs": [
+      "CHERI-Piccolo, CHERI-Flute, and CHERI-Toooba CPU cores on FPGA"
+    ],
+    "industryCollaborationSignals": [],
+    "openSourceFootprint": [
+      "https://github.com/CTSRD-CHERI/sail-cheri-riscv",
+      "https://github.com/CTSRD-CHERI/cheribuild",
+      "https://github.com/CTSRD-CHERI/qemu",
+      "https://github.com/CTSRD-CHERI/Piccolo",
+      "https://github.com/CTSRD-CHERI/Flute",
+      "https://github.com/CTSRD-CHERI/Toooba",
+      "https://github.com/CTSRD-CHERI/llvm-project",
+      "https://github.com/CTSRD-CHERI/gdb"
+    ],
+    "notablePartners": [],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "CHERI-RISC-V",
+        "url": "https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/cheri-risc-v.html"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/CTSRD-CHERI/cheri-specification"
+      }
+    ],
+    "proofOfRelevance": [],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "CHERI-RISC-V",
+        "url": "https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/cheri-risc-v.html"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/CTSRD-CHERI/cheri-specification"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "ku-leuven-advise",
+    "institutionName": "KU Leuven",
+    "labName": "ADVISE Fault-Tolerant RISC-V Research",
+    "institutionType": "University Research Group",
+    "country": "Belgium",
+    "city": "Leuven",
+    "officialWebsite": "https://iiw.kuleuven.be/nieuws-en-agenda/nieuws/advise-presenteert-eerste-succesvol-gevalideerde-risc-v-processor-2",
+    "summary": "A fault-tolerant RISC-V research effort with validation milestones that connect reliable processors to safety- and space-relevant applications.",
+    "researchAreas": [
+      "agile-arch",
+      "open-platforms"
+    ],
+    "researchFocus": "Reliable processor design, validation, and resilience techniques for RISC-V systems in demanding environments.",
+    "projectKeywords": [
+      "ADVISE",
+      "fault tolerance",
+      "validated RISC-V processor",
+      "reliability",
+      "presenteert",
+      "succesvol",
+      "gevalideerde",
+      "RISC-V-processor",
+      "chip",
+      "meteen",
+      "inzetbaar"
+    ],
+    "representativeProjects": [
+      "ADVISE validated RISC-V processor"
+    ],
+    "ecosystemRole": [],
+    "representativeOutputs": [
+      "Om de chip meteen inzetbaar te maken voor experimenten, integreert het platform een volledige set randapparatuur, waaronder JTAG-debugging, UART, SPI, GPIO en verschillende timers.",
+      "ADVISE presenteert succesvol gevalideerde RISC-V-processor"
+    ],
+    "industryCollaborationSignals": [],
+    "openSourceFootprint": [],
+    "notablePartners": [],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "KU Leuven ADVISE article",
+        "url": "https://iiw.kuleuven.be/nieuws-en-agenda/nieuws/advise-presenteert-eerste-succesvol-gevalideerde-risc-v-processor-2"
+      }
+    ],
+    "proofOfRelevance": [],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "KU Leuven ADVISE article",
+        "url": "https://iiw.kuleuven.be/nieuws-en-agenda/nieuws/advise-presenteert-eerste-succesvol-gevalideerde-risc-v-processor-2"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "bristol-scarv",
+    "institutionName": "University of Bristol",
+    "labName": "SCARV Security Architecture Research",
+    "institutionType": "University Research Group",
+    "country": "United Kingdom",
+    "city": "Bristol",
+    "officialWebsite": "https://www.bristol.ac.uk/people/person/Daniel-Page-a164f666-4488-428a-b7d3-6aeed2f3fda8/",
+    "summary": "A security-focused open hardware research profile tied to side-channel resilience, cryptography, and SCARV-related RISC-V implementation work.",
+    "researchAreas": [
+      "agile-arch",
+      "open-platforms"
+    ],
+    "researchFocus": "Secure RISC-V implementation, side-channel countermeasures, and hardware security methods for open architectures.",
+    "projectKeywords": [
+      "SCARV",
+      "hardware security",
+      "side-channel",
+      "RISC-V",
+      "positions",
+      "media",
+      "interests",
+      "supervisions"
+    ],
+    "representativeProjects": [
+      "SCARV"
+    ],
+    "ecosystemRole": [
+      "Our people menu Menu Home Study at Bristol arrow-down About Schools & faculties Research Business & partnerships News People Current students Current staff Alumni Back Dr Daniel Page Ph.D.(Bristol)"
+    ],
+    "representativeOutputs": [],
+    "industryCollaborationSignals": [
+      "Our people menu Menu Home Study at Bristol arrow-down About Schools & faculties Research Business & partnerships News People Current students Current staff Alumni Back Dr Daniel Page Ph.D.(Bristol)"
+    ],
+    "openSourceFootprint": [],
+    "notablePartners": [
+      "University"
+    ],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "Daniel Page profile",
+        "url": "https://www.bristol.ac.uk/people/person/Daniel-Page-a164f666-4488-428a-b7d3-6aeed2f3fda8/"
+      }
+    ],
+    "proofOfRelevance": [
+      "Publications"
+    ],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "Daniel Page profile",
+        "url": "https://www.bristol.ac.uk/people/person/Daniel-Page-a164f666-4488-428a-b7d3-6aeed2f3fda8/"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "usask-starr-starrisc",
+    "institutionName": "University of Saskatchewan",
+    "labName": "STARR Lab / StarRISC",
+    "institutionType": "University Research Lab",
+    "country": "Canada",
+    "city": "Saskatoon",
+    "officialWebsite": "https://research-groups.usask.ca/starr-lab/research-projects.php",
+    "summary": "A dependable embedded systems research lab with StarRISC and radiation-aware RISC-V processor work relevant to resilient compute contexts.",
+    "researchAreas": [
+      "agile-arch",
+      "edge-ai"
+    ],
+    "researchFocus": "Reliable and radiation-tolerant RISC-V processor design for embedded and aerospace-adjacent applications.",
+    "projectKeywords": [
+      "StarRISC",
+      "radiation tolerant",
+      "embedded systems",
+      "RISC-V MCU",
+      "RISC-V",
+      "knowledge"
+    ],
+    "representativeProjects": [
+      "StarRISC"
+    ],
+    "ecosystemRole": [],
+    "representativeOutputs": [],
+    "industryCollaborationSignals": [],
+    "openSourceFootprint": [],
+    "notablePartners": [
+      "University"
+    ],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "STARR Lab research projects",
+        "url": "https://research-groups.usask.ca/starr-lab/research-projects.php"
+      }
+    ],
+    "proofOfRelevance": [],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "STARR Lab research projects",
+        "url": "https://research-groups.usask.ca/starr-lab/research-projects.php"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "nkua-heterogeneous-riscv",
+    "institutionName": "National and Kapodistrian University of Athens",
+    "labName": "Heterogeneous RISC-V Systems Research",
+    "institutionType": "University Research Group",
+    "country": "Greece",
+    "city": "Athens",
+    "officialWebsite": "https://www.di.uoa.gr/announcements/1821",
+    "summary": "A heterogeneous systems research thread around RISC-V architectures, accelerators, and hardware-software co-design from the University of Athens.",
+    "researchAreas": [
+      "agile-arch",
+      "edge-ai"
+    ],
+    "researchFocus": "Heterogeneous RISC-V systems, accelerator integration, and evaluation workflows for advanced compute platforms.",
+    "projectKeywords": [
+      "heterogeneous RISC-V",
+      "accelerators",
+      "co-design",
+      "systems research",
+      "http",
+      "RISC-V"
+    ],
+    "representativeProjects": [
+      "Heterogeneous RISC-V systems"
+    ],
+    "ecosystemRole": [],
+    "representativeOutputs": [
+      "Social Networks"
+    ],
+    "industryCollaborationSignals": [],
+    "openSourceFootprint": [],
+    "notablePartners": [],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "University of Athens announcement",
+        "url": "https://www.di.uoa.gr/announcements/1821"
+      }
+    ],
+    "proofOfRelevance": [],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "University of Athens announcement",
+        "url": "https://www.di.uoa.gr/announcements/1821"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "iisc-reconfigurable-computing-lab",
+    "institutionName": "Indian Institute of Science Bangalore",
+    "labName": "Reconfigurable Computing Lab",
+    "institutionType": "University Research Lab",
+    "country": "India",
+    "city": "Bangalore",
+    "officialWebsite": "https://labs.dese.iisc.ac.in/rclab/",
+    "summary": "A lab developing 32-bit and 64-bit RISC-V cores, vector processors, and reconfigurable hardware systems for research and implementation.",
+    "researchAreas": [
+      "edge-ai",
+      "agile-arch"
+    ],
+    "researchFocus": "RISC-V core design, vector processing, and reconfigurable computing with a strong hardware implementation orientation.",
+    "projectKeywords": [
+      "RISC-V cores",
+      "vector processor",
+      "reconfigurable computing",
+      "ASIC",
+      "64-bit",
+      "4-wide",
+      "Processor",
+      "core",
+      "Coprocessor",
+      "DCNN",
+      "32-bit",
+      "RISC-V"
+    ],
+    "representativeProjects": [
+      "32-bit RISC-V core",
+      "64-bit RISC-V core",
+      "Vector processor",
+      "64-bit 4-wide Out-of-Order Processor core",
+      "Runtime Programmable Coprocessor for DCNN",
+      "32-bit RISC-V ASIC Architecture"
+    ],
+    "ecosystemRole": [],
+    "representativeOutputs": [
+      "64-bit 4-wide Out-of-Order Processor core",
+      "A Softcore RISC-V Vector Processor for Edge AI",
+      "Runtime Programmable Coprocessor for DCNN"
+    ],
+    "industryCollaborationSignals": [],
+    "openSourceFootprint": [],
+    "notablePartners": [
+      "EECS Indian Institute"
+    ],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "Reconfigurable Computing Lab",
+        "url": "https://labs.dese.iisc.ac.in/rclab/"
+      }
+    ],
+    "proofOfRelevance": [
+      "A Softcore RISC-V Vector Processor for Edge AI"
+    ],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "Reconfigurable Computing Lab",
+        "url": "https://labs.dese.iisc.ac.in/rclab/"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "polito-riscv-accelerators",
+    "institutionName": "Politecnico di Torino",
+    "labName": "RISC-V Extensions and Hardware Accelerators",
+    "institutionType": "University Research Group",
+    "country": "Italy",
+    "city": "Turin",
+    "officialWebsite": "https://www.det.polito.it/research/activities/microelectronics/risc_v_extensions_and_hardware_accelerators",
+    "summary": "A RISC-V extension and accelerator research line for AI, security, and specialized compute workloads at Politecnico di Torino.",
+    "researchAreas": [
+      "edge-ai",
+      "agile-arch"
+    ],
+    "researchFocus": "ISA extensions and hardware accelerators for AI, post-quantum cryptography, and application-specific RISC-V systems.",
+    "projectKeywords": [
+      "ISA extensions",
+      "hardware accelerators",
+      "AI",
+      "post-quantum cryptography",
+      "RISC-V",
+      "extensions",
+      "accelerators",
+      "ASIC",
+      "developments",
+      "seeing",
+      "exponential",
+      "increasing",
+      "demand",
+      "associated",
+      "design"
+    ],
+    "representativeProjects": [
+      "RISC-V ISA extensions",
+      "RISC-V hardware accelerators"
+    ],
+    "ecosystemRole": [],
+    "representativeOutputs": [
+      "RISC-V extensions and hardware accelerators"
+    ],
+    "industryCollaborationSignals": [],
+    "openSourceFootprint": [],
+    "notablePartners": [],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "Polito research page",
+        "url": "https://www.det.polito.it/research/activities/microelectronics/risc_v_extensions_and_hardware_accelerators"
+      }
+    ],
+    "proofOfRelevance": [],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "Polito research page",
+        "url": "https://www.det.polito.it/research/activities/microelectronics/risc_v_extensions_and_hardware_accelerators"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "tu-graz-runtime-riscv-mcus",
+    "institutionName": "TU Graz",
+    "labName": "Runtime-Reconfigurable RISC-V MCUs",
+    "institutionType": "University Research Group",
+    "country": "Austria",
+    "city": "Graz",
+    "officialWebsite": "https://www.tugraz.at/institute/iti/lehre/offene-projekte/runtime-reconfigurable-risc-v-mcus",
+    "summary": "An embedded systems research and teaching effort around runtime-reconfigurable RISC-V MCUs and flexible microcontroller design.",
+    "researchAreas": [
+      "edge-ai",
+      "agile-arch"
+    ],
+    "researchFocus": "Runtime-reconfigurable microcontrollers, embedded RISC-V systems, and practical hardware experimentation in an academic setting.",
+    "projectKeywords": [
+      "reconfigurable MCUs",
+      "embedded RISC-V",
+      "runtime reconfiguration",
+      "microcontrollers",
+      "RISC-V"
+    ],
+    "representativeProjects": [
+      "Runtime-reconfigurable RISC-V MCUs"
+    ],
+    "ecosystemRole": [],
+    "representativeOutputs": [],
+    "industryCollaborationSignals": [],
+    "openSourceFootprint": [],
+    "notablePartners": [],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "TU Graz project page",
+        "url": "https://www.tugraz.at/institute/iti/lehre/offene-projekte/runtime-reconfigurable-risc-v-mcus"
+      }
+    ],
+    "proofOfRelevance": [],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "TU Graz project page",
+        "url": "https://www.tugraz.at/institute/iti/lehre/offene-projekte/runtime-reconfigurable-risc-v-mcus"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "ucsb-openpiton-byoc",
+    "institutionName": "University of California, Santa Barbara",
+    "labName": "Open Hardware Systems Research",
+    "institutionType": "University Research Group",
+    "country": "United States",
+    "city": "Santa Barbara",
+    "officialWebsite": "https://www.cs.ucsb.edu/people/faculty/jonathan-balkind",
+    "summary": "An open hardware systems research profile linked to BYOC, OpenPiton lineage, and scalable architecture work in academia.",
+    "researchAreas": [
+      "agile-arch",
+      "open-platforms"
+    ],
+    "researchFocus": "Open hardware systems, reusable architecture platforms, and research workflows for scalable compute experimentation.",
+    "projectKeywords": [
+      "BYOC",
+      "OpenPiton",
+      "open hardware",
+      "computer architecture",
+      "terms",
+      "wish",
+      "UCSB",
+      "2104"
+    ],
+    "representativeProjects": [
+      "BYOC",
+      "OpenPiton research lineage"
+    ],
+    "ecosystemRole": [],
+    "representativeOutputs": [],
+    "industryCollaborationSignals": [],
+    "openSourceFootprint": [],
+    "notablePartners": [],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "Jonathan Balkind profile",
+        "url": "https://www.cs.ucsb.edu/people/faculty/jonathan-balkind"
+      }
+    ],
+    "proofOfRelevance": [],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "Jonathan Balkind profile",
+        "url": "https://www.cs.ucsb.edu/people/faculty/jonathan-balkind"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "harvey-mudd-riscv-design",
+    "institutionName": "Harvey Mudd College",
+    "labName": "RISC-V Microprocessor Design and Verification",
+    "institutionType": "University Teaching and Research Group",
+    "country": "United States",
+    "city": "Claremont",
+    "officialWebsite": "https://pages.hmc.edu/harris/ddca/ddcarv.html",
+    "summary": "A teaching-and-research profile centered on RISC-V microprocessor design, verification, and certification workflows.",
+    "researchAreas": [
+      "agile-arch",
+      "open-platforms"
+    ],
+    "researchFocus": "RISC-V microprocessor design education, verification practice, and open architectural understanding for students and researchers.",
+    "projectKeywords": [
+      "Wally",
+      "microprocessor verification",
+      "RISC-V design",
+      "education",
+      "story"
+    ],
+    "representativeProjects": [
+      "Wally",
+      "RISC-V microprocessor verification"
+    ],
+    "ecosystemRole": [],
+    "representativeOutputs": [],
+    "industryCollaborationSignals": [],
+    "openSourceFootprint": [],
+    "notablePartners": [],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "DDCA RISC-V materials",
+        "url": "https://pages.hmc.edu/harris/ddca/ddcarv.html"
+      },
+      {
+        "label": "David Harris profile",
+        "url": "https://www.hmc.edu/about/2025/02/18/faculty-profile-david-harris/"
+      }
+    ],
+    "proofOfRelevance": [],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "DDCA RISC-V materials",
+        "url": "https://pages.hmc.edu/harris/ddca/ddcarv.html"
+      },
+      {
+        "label": "David Harris profile",
+        "url": "https://www.hmc.edu/about/2025/02/18/faculty-profile-david-harris/"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "epfl-x-heep",
+    "institutionName": "École polytechnique fédérale de Lausanne",
+    "labName": "Embedded Systems Laboratory / X-HEEP",
+    "institutionType": "University Research Lab",
+    "country": "Switzerland",
+    "city": "Lausanne",
+    "officialWebsite": "https://www.epfl.ch/labs/esl/x-heep-designing-healthcare-devices-of-the-future/",
+    "summary": "An open embedded platform effort around X-HEEP that links low-power SoC design, research tooling, and reusable RISC-V microcontroller infrastructure.",
+    "researchAreas": [
+      "edge-ai",
+      "open-platforms"
+    ],
+    "researchFocus": "Open microcontroller platforms, low-power SoC design, and reusable hardware infrastructure for embedded systems research.",
+    "projectKeywords": [
+      "X-HEEP",
+      "HEEPocrates",
+      "open MCU",
+      "embedded SoC",
+      "copilot",
+      "spark",
+      "models",
+      "codespaces",
+      "code-review",
+      "advanced-security",
+      "startups",
+      "industry",
+      "same",
+      "section"
+    ],
+    "representativeProjects": [
+      "X-HEEP",
+      "HEEPocrates",
+      "copilot",
+      "spark",
+      "models",
+      "codespaces",
+      "code-review",
+      "advanced-security",
+      "startups",
+      "industry"
+    ],
+    "ecosystemRole": [
+      "Built on the foundations of the PULP-Platform project from ETHZ and UniBO, and the OpenTitan project, X-HEEP blends energy efficiency with an extensible architecture designed for the future of heterogeneous computing."
+    ],
+    "representativeOutputs": [
+      "X-HEEP (eXtensible Heterogeneous Energy-Efficient Platform) is a RISC-V microcontroller described in SystemVerilog .",
+      "Built on the foundations of the PULP-Platform project from ETHZ and UniBO, and the OpenTitan project, X-HEEP blends energy efficiency with an extensible architecture designed for the future of heterogeneous computing."
+    ],
+    "industryCollaborationSignals": [],
+    "openSourceFootprint": [
+      "https://github.com/opensearch.xml",
+      "https://github.com/fluidicon.png",
+      "https://github.com/manifest.json",
+      "https://github.com/",
+      "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fx-heep%2Fx-heep",
+      "https://github.com/features/copilot",
+      "https://github.com/features/spark",
+      "https://github.com/features/models"
+    ],
+    "notablePartners": [],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "EPFL X-HEEP page",
+        "url": "https://www.epfl.ch/labs/esl/x-heep-designing-healthcare-devices-of-the-future/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/esl-epfl/x-heep"
+      }
+    ],
+    "proofOfRelevance": [
+      "Built on the foundations of the PULP-Platform project from ETHZ and UniBO, and the OpenTitan project, X-HEEP blends energy efficiency with an extensible architecture designed for the future of heterogeneous computing.",
+      "You can access an editable version of this diagram for your use in presentations or publications here ."
+    ],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "EPFL X-HEEP page",
+        "url": "https://www.epfl.ch/labs/esl/x-heep-designing-healthcare-devices-of-the-future/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/esl-epfl/x-heep"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "rice-rvr-lab",
+    "institutionName": "Rice University",
+    "labName": "Rice RISC-V Research and Projects",
+    "institutionType": "University Research Group",
+    "country": "United States",
+    "city": "Houston",
+    "officialWebsite": "https://riscv.rice.edu/projects/",
+    "summary": "A university collection of RISC-V projects spanning processors, accelerators, and educational infrastructure within Rice's research community.",
+    "researchAreas": [
+      "agile-arch",
+      "open-platforms"
+    ],
+    "researchFocus": "RISC-V processor and accelerator projects that connect academic research, education, and open experimentation.",
+    "projectKeywords": [
+      "Rice RISC-V",
+      "processors",
+      "accelerators",
+      "projects",
+      "bring",
+      "together",
+      "undergraduates",
+      "graduates",
+      "faculty",
+      "industry",
+      "collaborators",
+      "work",
+      "aspects"
+    ],
+    "representativeProjects": [
+      "Rice RISC-V projects"
+    ],
+    "ecosystemRole": [],
+    "representativeOutputs": [],
+    "industryCollaborationSignals": [],
+    "openSourceFootprint": [],
+    "notablePartners": [],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "Rice RISC-V projects",
+        "url": "https://riscv.rice.edu/projects/"
+      }
+    ],
+    "proofOfRelevance": [],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "Rice RISC-V projects",
+        "url": "https://riscv.rice.edu/projects/"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "bu-blackparrot",
+    "institutionName": "Boston University",
+    "labName": "BlackParrot Open-Source Multicore Processor",
+    "institutionType": "University Research Project",
+    "country": "United States",
+    "city": "Boston",
+    "officialWebsite": "https://www.bu.edu/cise/research/blackparrot-an-open-source-risc-v-multicore-processor/",
+    "summary": "An open-source multicore processor project centered on BlackParrot for scalable architecture and systems experimentation.",
+    "researchAreas": [
+      "agile-arch",
+      "hpc-vector"
+    ],
+    "researchFocus": "Open-source multicore RISC-V architecture and systems research with an emphasis on scalable processor design.",
+    "projectKeywords": [
+      "BlackParrot",
+      "multicore processor",
+      "RISC-V",
+      "scalable architecture",
+      "black-parrot",
+      "copilot",
+      "spark",
+      "models",
+      "codespaces",
+      "code-review",
+      "advanced-security",
+      "startups",
+      "Multicore"
+    ],
+    "representativeProjects": [
+      "BlackParrot",
+      "black-parrot",
+      "copilot",
+      "spark",
+      "models",
+      "codespaces",
+      "code-review",
+      "advanced-security",
+      "startups"
+    ],
+    "ecosystemRole": [],
+    "representativeOutputs": [
+      "BlackParrot – An Open-Source RISC-V Multicore Processor"
+    ],
+    "industryCollaborationSignals": [
+      "We presented BlackParrot at the ICS 2020 Workshop on RISC-V and OpenPOWER! slides"
+    ],
+    "openSourceFootprint": [
+      "https://www.bu.edu/cise/research/blackparrot-an-open-source-risc-v-multicore-processor/",
+      "https://www.bu.edu/cise/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bu.edu%2Fcise%2Fresearch%2Fblackparrot-an-open-source-risc-v-multicore-processor%2F",
+      "https://www.bu.edu/cise/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bu.edu%2Fcise%2Fresearch%2Fblackparrot-an-open-source-risc-v-multicore-processor%2F&#038;format=xml",
+      "https://github.com/black-parrot/black-parrot",
+      "https://github.com/opensearch.xml",
+      "https://github.com/fluidicon.png",
+      "https://github.com/manifest.json",
+      "https://github.com/"
+    ],
+    "notablePartners": [
+      "Center"
+    ],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "BU BlackParrot project",
+        "url": "https://www.bu.edu/cise/research/blackparrot-an-open-source-risc-v-multicore-processor/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/black-parrot/black-parrot"
+      }
+    ],
+    "proofOfRelevance": [
+      "BlackParrot – An Open-Source RISC-V Multicore Processor"
+    ],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "BU BlackParrot project",
+        "url": "https://www.bu.edu/cise/research/blackparrot-an-open-source-risc-v-multicore-processor/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/black-parrot/black-parrot"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "columbia-esp",
+    "institutionName": "Columbia University",
+    "labName": "ESP SoC and Accelerator Platform",
+    "institutionType": "University Research Platform",
+    "country": "United States",
+    "city": "New York",
+    "officialWebsite": "https://www.esp.cs.columbia.edu/",
+    "summary": "A system-on-chip and accelerator platform from Columbia that combines RISC-V integration, reusable IP, and design automation research.",
+    "researchAreas": [
+      "edge-ai",
+      "open-platforms"
+    ],
+    "researchFocus": "Open SoC design, accelerator-rich systems, and reusable platform infrastructure for research and teaching around modern compute systems.",
+    "projectKeywords": [
+      "ESP",
+      "SoC platform",
+      "accelerators",
+      "RISC-V integration",
+      "ariane",
+      "ibex",
+      "copilot",
+      "spark",
+      "models",
+      "codespaces",
+      "code-review",
+      "soon"
+    ],
+    "representativeProjects": [
+      "ESP platform",
+      "ariane",
+      "ibex",
+      "copilot",
+      "spark",
+      "models",
+      "codespaces",
+      "code-review"
+    ],
+    "ecosystemRole": [],
+    "representativeOutputs": [
+      "ESP is an open-source research platform for heterogeneous system-on-chip design that combines a scalable tile-based architecture and a flexible system-level design methodology.",
+      "ESP is an open-source platform for heterogeneous SoC design and prototype on FPGA. It provides a flexible tile-based architecture built on a multi-plane network-on-chip.",
+      "In addition to processor cores, ESP embeds accelerator design examples created with Stratus HLS in SystemC, Vivado HLS in C/C++ and Chisel.",
+      "Furthermore, ESP can serve as a platform to integrate third-party IP blocks. For example, ESP integrates the NVIDIA Deep Learning Accelerator NVDLA , which can be placed on any ESP accelerator tile."
+    ],
+    "industryCollaborationSignals": [],
+    "openSourceFootprint": [
+      "https://github.com/sld-columbia/esp",
+      "https://github.com/pulp-platform/ariane",
+      "https://riscv.org/",
+      "https://github.com/lowRISC/ibex",
+      "https://github.com/sld-columbia/esp/releases/tag/2026.1.0",
+      "https://github.com/opensearch.xml",
+      "https://github.com/fluidicon.png",
+      "https://github.com/manifest.json"
+    ],
+    "notablePartners": [],
+    "benchmarkOrTapeoutSignals": [],
+    "representativePapers": [],
+    "openResources": [
+      {
+        "label": "ESP platform",
+        "url": "https://www.esp.cs.columbia.edu/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/sld-columbia/esp"
+      }
+    ],
+    "proofOfRelevance": [
+      "ESP is an open-source research platform for heterogeneous system-on-chip design that combines a scalable tile-based architecture and a flexible system-level design methodology.",
+      "The Publications page contains the complete list of publications related to ESP.",
+      "ESP is an open-source platform for heterogeneous SoC design and prototype on FPGA. It provides a flexible tile-based architecture built on a multi-plane network-on-chip.",
+      "Publications"
+    ],
+    "collaborationInterests": [
+      "Public-source profile pending institutional claim and collaboration preference verification."
+    ],
+    "collaborationTypes": [],
+    "acceptsRequests": false,
+    "requestStatusNote": "Public-source expansion profile. Collaboration readiness has not yet been verified by the institution.",
+    "claimStatus": "unclaimed",
+    "editorialNote": "Public-source expansion profile awaiting deeper enrichment and institutional confirmation.",
+    "sources": [
+      {
+        "label": "ESP platform",
+        "url": "https://www.esp.cs.columbia.edu/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/sld-columbia/esp"
+      }
+    ],
+    "lastUpdated": "2026-04-22"
+  }
+]

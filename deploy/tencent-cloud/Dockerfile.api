@@ -1,0 +1,31 @@
+FROM node:24-alpine AS builder
+
+WORKDIR /app
+
+COPY package*.json ./
+RUN npm ci
+
+COPY . .
+RUN npm run build:server
+
+FROM node:24-alpine
+
+WORKDIR /app
+
+RUN apk add --no-cache docker-cli docker-cli-compose
+
+COPY package*.json ./
+RUN npm ci --omit=dev
+
+COPY --from=builder /app/dist-server ./dist-server
+COPY --from=builder /app/src/data/institutions.json /app/canonical-data/institutions.json
+
+ENV NODE_ENV=production
+ENV PORT=4000
+ENV STORAGE_DIR=/app/runtime-data
+ENV CANONICAL_INSTITUTIONS_PATH=/app/canonical-data/institutions.json
+ENV REBUILD_WEB_SCRIPT=/workspace/deploy/tencent-cloud/rebuild-web.sh
+
+EXPOSE 4000
+
+CMD ["node", "dist-server/index.js"]
